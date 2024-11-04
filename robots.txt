@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omabaiha.github.io/MiB/sitemap_index.txt
+Sitemap: https://omabaiha.github.io/ONF/sitemap_index.txt
+Sitemap: https://omabaiha.github.io/bly/sitemap_index.txt
+Sitemap: https://omabaiha.github.io/hRi/sitemap_index.txt
